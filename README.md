@@ -2,6 +2,10 @@
    React - Styled Components OzkanBuyuk Web
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-sc-ozkanbuyuk-web/assets/111967202/0249c60c-3d67-4f4b-bb64-c9ed4b66be57" width="400" />
   <img src="https://github.com/ozkannbuyuk/react-sc-ozkanbuyuk-web/assets/111967202/aed32818-636c-4a60-9e55-dd899b5cdee5" width="400" />
